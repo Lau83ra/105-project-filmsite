@@ -1,0 +1,28 @@
+body {
+    font-size: 20px;
+}
+
+#titel {
+    padding: 10px 0 30px 10px;
+    text-align: center;
+}
+
+#bild img { 
+    width: 50%;
+}
+
+#auflistung { 
+    padding: 50px 0 50px 10px;
+}
+
+#cta {
+    padding: 80px 0 80px 0;
+    background-color: indianred;
+    text-align: center;
+}
+footer {
+    padding: 50px 0 20px 0;
+    font-size: 16px;
+    background-color: #bb9999;
+    text-align: center;
+}
